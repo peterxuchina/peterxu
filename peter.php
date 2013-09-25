@@ -41,4 +41,4 @@ for($index = 0;$index < $len; $index++){
         }
     }
 }
-var_dump($result + 0);
+var_dump($result);
