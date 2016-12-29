@@ -1,1 +1,2 @@
-welcome
+<?php
+echo 'hello world';
