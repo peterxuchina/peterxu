@@ -1,3 +1,4 @@
 <?php
 phpinfo();
-echo time();//注释
+echo time();
+echo 1+3;
