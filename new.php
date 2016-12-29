@@ -1,4 +1,4 @@
 <?php
 phpinfo();
 echo time();
-echo 5 + 3 = 8;
+echo 5 * 3 = 15;
