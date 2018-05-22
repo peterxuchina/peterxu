@@ -1,6 +1,6 @@
 <?php
 /**
- * peter
+ * peterxu
  * 2013-8-13
  * xxtao.com
  */
