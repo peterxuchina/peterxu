@@ -42,3 +42,4 @@ for($index = 0;$index < $len; $index++){
     }
 }
 var_dump($result);
+phpinfo();
