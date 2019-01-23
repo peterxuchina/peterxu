@@ -1,4 +1,7 @@
 <?php
-info();
-echo 3 + 2 = 5;
-echo 6 / 3 = 2;
+$a = 'a';
+if($a){
+   print($a);
+}else{
+  print("no data");
+}
