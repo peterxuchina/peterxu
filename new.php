@@ -1,10 +1,10 @@
 <?php
 $a = 'abac';
 if($a){
-		echo 333;
+		echo 3333;
 		   print($a);
 }else{
-		echo 1234;
+		echo 12334;
 		  print("no data");
 }
 
