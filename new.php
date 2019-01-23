@@ -1,5 +1,6 @@
 <?php
 $a = 'abaca';
+$a = 13;
 if($a){
 		echo 3333;
 		   print($a);
