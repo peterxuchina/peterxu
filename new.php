@@ -5,6 +5,6 @@ if($a){
 		   print($a);
 }else{
 		echo 12334;
-		  print("no data");
+		   print($a);
 }
 
